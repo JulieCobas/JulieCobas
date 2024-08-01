@@ -3,12 +3,13 @@ Actuellement en dernière année d'informatique de gestion à l'ES, je suis pass
 Je suis en quête d'opportunités pour démarrer ma carrière dans le conseil ERP dès octobre 2024. 🚀
 
 ## 🌟 Compétences
-- **Systèmes ERP** : Microsoft 365 Business Central, SAP FICO, Oracle JDE, ProConcept, Abacus, Bexio, WinEur GIT, Winbiz, Crésus
-- **Langages de programmation** : SAP ABAP, SQL, Python, Java, JavaScript, C#, CSS3, HTML5
-- **Outils** : Excel, MS Teams, PowerPoint, Word, SQL Server, Power BI, Visual Studio Code, IntelliJ IDEA, WinDesign, Android Studio, GitHub, ChatGPT
-- **Frameworks** : Vue.js, Spring Boot
-- **Gestion de projet** : Agile Scrum, HERMES
-- **Connaissances de méthodologies IT** : ITIL, ISO 27001 - 9001
+- **Systèmes ERP** : ![Microsoft 365 Business Central](https://img.shields.io/badge/-Microsoft_365_Business_Central-blue) ![SAP FICO](https://img.shields.io/badge/-SAP_FICO-brightgreen) ![Oracle JDE](https://img.shields.io/badge/-Oracle_JDE-yellow) ![ProConcept](https://img.shields.io/badge/-ProConcept-blue) ![Abacus](https://img.shields.io/badge/-Abacus-green) ![Bexio](https://img.shields.io/badge/-Bexio-yellow) ![WinEur GIT](https://img.shields.io/badge/-WinEur_GIT-blue) ![Winbiz](https://img.shields.io/badge/-Winbiz-green) ![Crésus](https://img.shields.io/badge/-Crésus-yellow)
+- **Langages de programmation** : ![SAP ABAP](https://img.shields.io/badge/-SAP_ABAP-red) ![SQL](https://img.shields.io/badge/-SQL-blue) ![Python](https://img.shields.io/badge/-Python-yellow) ![Java](https://img.shields.io/badge/-Java-red) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![C#](https://img.shields.io/badge/-CSharp-blue) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![HTML5](https://img.shields.io/badge/-HTML5-red)
+- **Outils** : ![Excel](https://img.shields.io/badge/-Excel-green) ![MS Teams](https://img.shields.io/badge/-MS_Teams-blue) ![PowerPoint](https://img.shields.io/badge/-PowerPoint-red) ![Word](https://img.shields.io/badge/-Word-blue) ![SQL Server](https://img.shields.io/badge/-SQL_Server-red) ![Power BI](https://img.shields.io/badge/-Power_BI-yellow) ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-blue) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-blue) ![WinDesign](https://img.shields.io/badge/-WinDesign-green) ![Android Studio](https://img.shields.io/badge/-Android_Studio-green) ![GitHub](https://img.shields.io/badge/-GitHub-black) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-blue)
+- **Frameworks** : ![Vue.js](https://img.shields.io/badge/-Vue.js-brightgreen) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-green)
+- **Gestion de projet** : ![Agile Scrum](https://img.shields.io/badge/-Agile_Scrum-blue) ![HERMES](https://img.shields.io/badge/-HERMES-red)
+- **Connaissances de méthodologies IT** : ![ITIL](https://img.shields.io/badge/-ITIL-blue) ![ISO 27001](https://img.shields.io/badge/-ISO_27001-green) ![ISO 9001](https://img.shields.io/badge/-ISO_9001-green)
+
   
 ## 🚀 Projets récents
 
@@ -39,5 +40,11 @@ Passionnée de technologie et d'optimisation des processus métier. 🚀 Mon but
 - **Explorer de nouvelles technologies** et découvrir comment elles transforment notre monde.
 - **Optimiser les processus métier** pour les rendre plus fluides et efficaces.
 - **Résoudre des défis complexes** avec créativité et innovation.
+
+🛠️ **Technologies que j'aime utiliser :**
+
+![Excel](https://img.shields.io/badge/-Excel-green) ![Business Central](https://img.shields.io/badge/-Business_Central-blue) ![SQL Server](https://img.shields.io/badge/-SQL_Server-blue) ![Power BI](https://img.shields.io/badge/-Power_BI-yellow) ![SQL](https://img.shields.io/badge/-SQL-blue) ![Java](https://img.shields.io/badge/-Java-red) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-blue) ![Python](https://img.shields.io/badge/-Python-yellow) ![Git](https://img.shields.io/badge/-Git-black) ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-blue) 
+
+
   
 🌍 En ce moment, je suis en quête d'opportunités pour débuter ma carrière dans le conseil ERP. Si vous avez des idées ou des projets intéressants, n'hésitez pas à consulter ci-dessous mes projets ou à me contacter !
