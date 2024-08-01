@@ -57,7 +57,8 @@ Je suis en quête d'opportunités pour démarrer ma carrière dans le conseil ER
 🌍 **Application de gestion de voyages** développée en **C# avec ASP.NET Core**. Planifiez vos voyages, gérez vos itinéraires, et organisez vos réservations. Le back-end utilise des API RESTful pour interagir avec une base de données SQL Server hébergée sur Azure.
 
 ## 💼 Expérience
-Pour plus de détails sur mon parcours professionnel, veuillez consulter mon [profil LinkedIn](https://www.linkedin.com/in/julie-cobas).
+Pour plus de détails sur mon parcours professionnel, veuillez consulter mon profil [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julie-cobas)
+
 
 ## 🌱 En cours d'apprentissage
 - **Techniques avancées ERP** et langage AL pour **Microsoft 365 Business Central**.
